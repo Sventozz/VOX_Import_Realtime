@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{AB3E622F-4C76-CF44-3B13-32A820AAC57E}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "VOX_Import_2",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
